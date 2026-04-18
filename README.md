@@ -14,15 +14,7 @@
 
 ## One-step Automated Install (shorter)
 
-### `bash <(curl -sL bit.ly/easy-arch)`
-
-## Alternative Methods (manual)
-
-```bash 
-wget -O easy-arch.sh https://raw.githubusercontent.com/classy-giraffe/easy-arch/main/easy-arch.sh
-chmod +x easy-arch.sh
-bash easy-arch.sh
-```
+### `bash <(curl -sL bit.ly/easyarch_custom)`
 
 ## Partitions layout 
 
